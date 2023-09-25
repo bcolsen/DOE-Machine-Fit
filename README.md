@@ -5,4 +5,4 @@ A python script for making multi-dimentional reduced subset Design of Experiment
 [How To Optimize Materials and Devices via Design of Experiments and Machine Learning: Demonstration Using Organic Photovoltaics](https://pubs.acs.org/doi/full/10.1021/acsnano.8b04726)
 
 ## Example Output
-![Example graph using ascnano paper data](ascnano_figure.png)
+![Example graph using ascnano paper data](https://github.com/bcolsen/DOE-Machine-Fit/blob/main/acsnano_figure.png)
