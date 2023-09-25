@@ -306,3 +306,4 @@ if __name__ == "__main__":
             }
     fit_svm(df, 'pce', ['don_con', 'spin_s', 'total_con'],gamma=0.15,
             mark_err=0.1, var_prop_labels=var_prop_labels)
+    plt.gcf().savefig("acsnano_figure.png", dpi=300)
